@@ -52,10 +52,11 @@ npm run build
 
 ![Journey Builder prefill mappings](./docs/assets/journey-builder-prefill.png)
 
+![Source picker with search](./docs/assets/journey-builder-source-search.png)
+
 Additional screenshot assets:
 
 - [Desktop view](./docs/assets/journey-builder-desktop.png)
-- [Source picker search](./docs/assets/journey-builder-source-search.png)
 
 ## Adding A New Data Source
 
